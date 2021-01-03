@@ -1,0 +1,56 @@
+[ {
+  "clubName" : "Kandy Tuskers",
+  "clubLocation" : "Kandy",
+  "numOfMembers" : 10,
+  "winCount" : 0,
+  "drawCount" : 0,
+  "defeatsCount" : 0,
+  "goalsCount" : 0,
+  "score" : 0,
+  "points" : 0.0,
+  "numOfMatches" : 0
+}, {
+  "clubName" : "Colombo Kings",
+  "clubLocation" : "Colombo",
+  "numOfMembers" : 12,
+  "winCount" : 1,
+  "drawCount" : 0,
+  "defeatsCount" : 0,
+  "goalsCount" : 2,
+  "score" : 20,
+  "points" : 3.0,
+  "numOfMatches" : 1
+}, {
+  "clubName" : "Royal Challengers",
+  "clubLocation" : "India",
+  "numOfMembers" : 15,
+  "winCount" : 0,
+  "drawCount" : 0,
+  "defeatsCount" : 0,
+  "goalsCount" : 0,
+  "score" : 0,
+  "points" : 0.0,
+  "numOfMatches" : 0
+}, {
+  "clubName" : "Galle Gladiators",
+  "clubLocation" : "Galle",
+  "numOfMembers" : 20,
+  "winCount" : 0,
+  "drawCount" : 0,
+  "defeatsCount" : 1,
+  "goalsCount" : 0,
+  "score" : 0,
+  "points" : 0.0,
+  "numOfMatches" : 1
+}, {
+  "clubName" : "Dambulla Vikings",
+  "clubLocation" : "Dambulla",
+  "numOfMembers" : 18,
+  "winCount" : 0,
+  "drawCount" : 0,
+  "defeatsCount" : 0,
+  "goalsCount" : 0,
+  "score" : 0,
+  "points" : 0.0,
+  "numOfMatches" : 0
+} ]
